@@ -36,7 +36,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**RG l Y4R, your :credit_card: balance is ``$685560.**``');
+              message.channel.send('**RG l Y4R, your :credit_card: balance is ``$685560.``**');
                
 
             }
