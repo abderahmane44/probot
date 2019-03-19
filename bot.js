@@ -36,7 +36,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit Future | Skillz , - 🎶 .') {
-              message.channel.send('Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.');
+              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.**');
                
 
             }
@@ -49,7 +49,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('.Da[à]àZ ,, | RG, your :credit_card: balance is $4784560.');
+              message.channel.send('**.Da[à]àZ ,, | RG, your :credit_card: balance is $4784560.**');
                
 
             }
@@ -62,7 +62,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.');
+              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.**');
                
 
             }
