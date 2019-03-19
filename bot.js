@@ -61,8 +61,7 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
          client.on('message', message => {
-            if (message.content === '#credit.
-		') {
+            if (message.content === '#credit.') {
               message.channel.send('Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.');
                
 
