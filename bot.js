@@ -36,7 +36,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**RG l Y4R, your :credit_card: balance is $685560.**');
+              message.channel.send('**RG l Y4R, your :credit_card: balance is ``$685560.**``');
                
 
             }
@@ -48,7 +48,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit @RG l Y4R#8407 ') {
-              message.channel.send('**RG l Y4R, your :credit_card: balance is $685560.**');
+              message.channel.send('**RG l Y4R, your :credit_card: balance is ``$685560.``**');
                
 
             }
@@ -59,7 +59,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit @Future |  Skillz , - 🎶 .#6562 ') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.**');
+              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$4784560.``**');
                
 
             }
@@ -71,7 +71,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**.Da[à]àZ ,, | RG, your :credit_card: balance is $4784560.**');
+              message.channel.send('**.Da[à]àZ ,, | RG, your :credit_card: balance is ``$4784560.``**');
                
 
             }
@@ -82,7 +82,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit @.Da[à]àZ ,, | RG#6113') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.**');
+              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$4784560.``**');
                
 
             }
@@ -95,7 +95,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is $4784560.**');
+              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$4784560.``**');
                
 
             }
