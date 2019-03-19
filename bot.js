@@ -58,8 +58,8 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
          client.on('message', message => {
-            if (message.content === '#credit @Future |  Skillz , - 🎶 .#6562 ') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$4784560.``**');
+            if (message.content === '#credit - M[à]rshm[è]llo#3336') {
+              message.channel.send('**M[à]rshm[è]llo, your :credit_card: balance is ``$4784560.``**');
                
 
             }
@@ -71,7 +71,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**.Da[à]àZ ,, | RG, your :credit_card: balance is ``$2683510.``**');
+              message.channel.send('**- M[à]rshm[è]llo your :credit_card: balance is ``$2683510.``**');
                
 
             }
@@ -81,8 +81,8 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
          client.on('message', message => {
-            if (message.content === '#credit @.Da[à]àZ ,, | RG#6113') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$2683510.``**');
+            if (message.content === '#credit ريما ❆#9840') {
+              message.channel.send('**ريما ❆, your :credit_card: balance is ``$2683510.``**');
                
 
             }
@@ -95,7 +95,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$4784560.``**');
+              message.channel.send('**ريما ❆, your :credit_card: balance is ``$4784560.``**');
                
 
             }
