@@ -71,7 +71,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit.') {
-              message.channel.send('**.Da[à]àZ ,, | RG, your :credit_card: balance is ``$4784560.``**');
+              message.channel.send('**.Da[à]àZ ,, | RG, your :credit_card: balance is ``$2683510.``**');
                
 
             }
@@ -82,7 +82,7 @@ client.on('ready', () => {
 });
          client.on('message', message => {
             if (message.content === '#credit @.Da[à]àZ ,, | RG#6113') {
-              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$4784560.``**');
+              message.channel.send('**Future | Skillz , - 🎶 ., your :credit_card: balance is ``$2683510.``**');
                
 
             }
